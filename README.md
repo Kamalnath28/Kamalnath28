@@ -1,16 +1,190 @@
-## Hi there 👋
+\<div align="center">
 
-<!--
-**Kamalnath28/Kamalnath28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# KAMALNATH A H
 
-Here are some ideas to get you started:
+### MCA Student | Python Developer | AI & Backend Development Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Python+Developer;Exploring+Artificial+Intelligence;Building+with+Flask+and+PostgreSQL;Learning+and+Building+Every+Day](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&pause=1000\&color=2F80ED\&center=true\&vCenter=true\&width=650\&lines=Python+Developer;Exploring+Artificial+Intelligence;Building+with+Flask+and+PostgreSQL;Learning+and+Building+Every+Day)" alt="Typing SVG" />
+
+\<br>
+
+\<a href="[https://github.com/Kamalnath28](https://github.com/Kamalnath28)"> \<img src="[https://img.shields.io/badge/GitHub-Kamalnath28-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Kamalnath28-181717?style=for-the-badge\&logo=github)" /> \</a>
+
+\</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm an MCA student passionate about software development, Python programming, and Artificial Intelligence.
+
+- 🎓 Currently pursuing **Master of Computer Applications (MCA)**.
+- 💻 Mainly focused on **Python Development**.
+- 🤖 Exploring Artificial Intelligence, Machine Learning and Data Science.
+- ⚙️ Interested in Backend Development and Database Management.
+- 🚀 Building practical projects to improve my development skills.
+- 📚 Continuously learning new technologies and improving my problem-solving abilities.
+
+---
+
+## 🎓 Education
+
+| Qualification                           | Institution                            | Year                 |
+| --------------------------------------- | -------------------------------------- | -------------------- |
+| Master of Computer Applications (MCA)   | Jamal Mohamed College, Tiruchirappalli | 2025–2027 (Expected) |
+| Bachelor of Computer Applications (BCA) | Jamal Mohamed College, Tiruchirappalli | Completed            |
+
+---
+
+## 💻 Technical Skills
+
+### Programming Languages
+
+\<p align="left"> \<img src="[https://skillicons.dev/icons?i=python,java,js&perline=6](https://skillicons.dev/icons?i=python,java,js\&perline=6)" /> \</p>
+
+### Frameworks & Frontend Technologies
+
+\<p align="left"> \<img src="[https://skillicons.dev/icons?i=flask,html,css&perline=6](https://skillicons.dev/icons?i=flask,html,css\&perline=6)" /> \</p>
+
+### Databases
+
+\<p align="left"> \<img src="[https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=6](https://skillicons.dev/icons?i=postgres,mysql,mongodb\&perline=6)" /> \</p>
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Oracle Database 21c
+
+### Libraries
+
+- Tkinter
+
+---
+
+## 🛠️ Development Tools
+
+\<p align="left"> \<img src="[https://skillicons.dev/icons?i=vscode,pycharm,netbeans,git,github&perline=6](https://skillicons.dev/icons?i=vscode,pycharm,netbeans,git,github\&perline=6)" /> \</p>
+
+- Visual Studio Code
+- PyCharm
+- NetBeans
+- Git
+- GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 1. CivicConnect
+
+A civic issue reporting application developed to help users submit and manage public complaints.
+
+**Technologies:** Python, Flask, PostgreSQL
+
+[View Repository →](https://github.com/Kamalnath28/CivicConnect)
+
+### 2. CV Analyzer
+
+A Python-based project focused on CV and resume analysis.
+
+**Technologies:** Python
+
+[View Repository →](https://github.com/Kamalnath28/CV_Analyzer)
+
+### 3. Simple Snake Game
+
+A classic Snake game developed using Python and Tkinter.
+
+**Technologies:** Python, Tkinter
+
+[View Repository →](https://github.com/Kamalnath28/simple-snake-game)
+
+### 4. US States Game
+
+An interactive geography game where users identify the states of the United States.
+
+**Technologies:** Python, Turtle
+
+[View Repository →](https://github.com/Kamalnath28/us-states-game)
+
+---
+
+## 🏅 Certifications
+
+### Professional Certifications
+
+**Google AI Essentials**
+
+- Google / Coursera
+- June 2026
+- [Verify Certificate](https://coursera.org/verify/specialization/6LJQRBZT7U7L)
+
+**Google Prompting Essentials**
+
+- Google / Coursera
+- June 2026
+- [Verify Certificate](https://coursera.org/verify/specialization/K0OMSP4ELMYY)
+
+**Python for Data Science – Elite**
+
+- NPTEL, IIT Madras
+- January–February 2026
+- Score: 61%
+- Recommended Credits: 2
+
+### Technical Training
+
+**Application Developer – Web & Mobile**
+
+- IT-ITeS Sector Skill Council / NASSCOM
+- 540 Hours | Grade A | NSQF Level 5
+- August 2025
+
+**Artificial Intelligence – 30 Days MasterClass**
+
+- NoviTech R&D Private Limited
+- June–July 2025
+
+**Full Stack Development – 30 Days MasterClass**
+
+- NoviTech R&D Private Limited
+- January–February 2025
+
+### Workshops & Academic Participation
+
+**International Conference on Advanced Computing (ICAC 2026)**
+
+- Jamal Mohamed College
+- Presented paper: *Rule-based vs Machine Learning Approaches*
+- February 2026
+
+**International Workshop on Modern Tools and Frameworks of Machine Learning**
+
+- Jamal Mohamed College
+- August 2025
+
+---
+
+## 📊 GitHub Statistics
+
+\<div align="center">
+
+\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=Kamalnath28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Kamalnath28\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" alt="GitHub Statistics" />
+
+\<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalnath28&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalnath28\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Top Languages" />
+
+\<br>
+
+\<img src="[https://streak-stats.demolab.com?user=Kamalnath28&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Kamalnath28\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak" />
+
+\</div>
+
+---
+
+\<div align="center">
+
+### 💡 Learning. Building. Improving.
+
+*Thanks for visiting my GitHub profile!*
+
+\</div>
