@@ -162,16 +162,15 @@ An interactive geography game where users identify the states of the United Stat
 - NoviTech R&D Private Limited
 - January–February 2025
 
-### Workshops & Academic Participation
+## 🎓 Workshops & Academic Participation
 
-**International Conference on Advanced Computing (ICAC 2026)**
-- Jamal Mohamed College
-- Paper presented: *Rule-based vs Machine Learning Approaches*
-- February 2026
+**International Conference on Advanced Computing (ICAC 2026)**  
+Jamal Mohamed College, Tiruchirappalli | February 2026
 
-**International Workshop on Modern Tools and Frameworks of Machine Learning**
-- Jamal Mohamed College
-- August 2025
+📄 Paper Presentation: *Rule-based vs Machine Learning Approaches*
+
+**International Workshop on Modern Tools and Frameworks of Machine Learning**  
+Jamal Mohamed College, Tiruchirappalli | August 2025
 
 ---
 
